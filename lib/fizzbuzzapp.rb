@@ -1,4 +1,4 @@
-# require_relative "fizzbuzz"
+require_relative "fizzbuzz"
 
 def fizzbuzzapp(count)
   result = []
